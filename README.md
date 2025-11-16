@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KrishJhawalta
 - 👀 I’m interested in Linux/MacOS
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail- krishjhawalta@gmail.com
 
 <!---
